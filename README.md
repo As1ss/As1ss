@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats-beryl-nu-33.vercel.app/api/top-langs?username=As1ss&layout=compact)](https://github.com/As1ss/github-readme-stats) 
 |
-![As1ss GitHub stats](https://github-readme-stats.vercel.app/api?username=As1ss&count_private=true)
+![As1ss GitHub stats](https://github-readme-stats.vercel.app/api?username=As1ss&count_private=true&theme=tokyonight)
 
 
