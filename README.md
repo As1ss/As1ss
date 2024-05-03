@@ -2,7 +2,7 @@
 | ------------- | ------------- |
 <div align="center">
 
-[![As1ss wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=As1ss&range=all_time&theme=merko&custom_title=Coding&layout=compact&hide_border=true)](https://wakatime.com/@As1ss)
+[![As1ss wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=As1ss&range=all_time&theme=merko&custom_title=Coding&layout=compact&hide_border=true&langs_count=12)](https://wakatime.com/@As1ss)
 
     
 </div>
